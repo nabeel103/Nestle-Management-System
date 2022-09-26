@@ -1,0 +1,18 @@
+Ali,ali@manager.nestle.pk,ali123,100000
+Azeem Ali,azeem@manager.nestle.pk,azeem123,100000
+Ali,ali@rsm.nestle.pk,ali123,80000
+Mahnoor Shad,mahnoor@rsm.nestle.pk,Mahnoor Shad,80000
+Ali,ali@ds.nestle.pk,ali123,60000
+Ahmad Shoaib,ahmadshoaib@ds.nestle.pk,ahmad123,60000
+Ali,ali@acc.nestle.pk,ali123,60000
+Asad Ullah Bhatti,asad@acc.nestle.pk,asad123,60000
+Ali,ali@shi.nestle.pk,ali123,50000
+Subhan Yousaf,subhan@shi.nestle.pk,subhan123,50000
+Ali,ali@whi.nestle.pk,ali123,50000
+Arslan Yousaf,arslan@whi.nestle.pk,arslan123,50000
+100000
+80000
+60000
+60000
+50000
+50000

@@ -1,0 +1,8 @@
+Fruita Vitals,1000,50
+Coffee,1500,50
+Nido,2000,80
+Milk,1500,50
+Chocolates,3000,90
+Kitkat,5000,50
+Juice,1000,50
+cheeze,3000,50
